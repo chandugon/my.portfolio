@@ -1,0 +1,77 @@
+[
+   
+  
+   
+   
+  {
+    "name": "NariShakti- Women’s safety App",
+    "desc": "NariShakti app with core features like live location tracking and emergency SMS alerts.",
+    "image": "narishakti",
+    "category": "basicweb",
+    "links": {
+      "view": "https://drive.google.com/file/d/1lWC1bNcgkjgPvLwpY9GCeuopr9kBbdas/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Daily Tracker Expense System ",
+    "desc": " web app that helps users log and categorize daily expenses. Includes user authentication, visual summaries, and filtering options. ",
+    "image": "expense",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+   
+   
+   
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+   
+  
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+   
+  },
+{
+    "name": "Foodicious",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+   
+  },
+
+
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
