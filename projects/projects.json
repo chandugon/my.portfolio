@@ -1,21 +1,18 @@
 [
-   
-  
-   
-   
   {
-    "name": "NariShakti- Women’s safety App",
-    "desc": "NariShakti app with core features like live location tracking and emergency SMS alerts.",
+    "name": "Nariskakti Women's Safety App ",
     "image": "narishakti",
+    "address": "India",
+    "desc": "NariShakti app with core features like live location tracking and emergency SMS alerts.",
     "category": "basicweb",
     "links": {
       "view": "https://drive.google.com/file/d/1lWC1bNcgkjgPvLwpY9GCeuopr9kBbdas/view?usp=sharing",
-      "code": "#"
+      "code": "https://drive.google.com/file/d/1lWC1bNcgkjgPvLwpY9GCeuopr9kBbdas/view?usp=sharing"
     }
   },
   {
     "name": "Daily Tracker Expense System ",
-    "desc": " web app that helps users log and categorize daily expenses. Includes user authentication, visual summaries, and filtering options. ",
+    "desc": "web app that helps users log and categorize daily expenses. Includes user authentication, visual summaries, and filtering options.",
     "image": "expense",
     "category": "mern",
     "links": {
@@ -23,23 +20,66 @@
       "code": "#"
     }
   },
-   
-   
-   
-
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolio1",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://chandugon.github.io/my.portfolio/",
+      "code": "https://github.com/chandugon/my.portfolio"
     }
   },
-  
-   
-  
+  {
+    "name": "coffee Website",
+    "desc": "Designed a static coffee shop website using HTML and CSS with a visually appealing layout, responsive design, product sections, and custom branding.",
+    "image": "coffee",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chandugon.github.io/coffee",
+      "code": "https://github.com/dashboard"
+    }
+  },
+  {
+    "name": "E-Commerce",
+    "desc": "Built a full-stack eCommerce app using MERN with user login, product listing, cart management, secure checkout, and admin dashboard features.",
+    "image": "ecommerce",
+    "category": "mernstag",
+    "links": {
+      "view": "https://ecommerceapp-u8w2.onrender.com/",
+      "code": "https://github.com/akashsnikam/Ecommerceapp"
+    }
+  },
+  {
+    "name": "Our INDIA",
+    "desc": "Land of Ayurveda- From the majestic Himalayas to the serene backwaters, experience a land of vibrant colors, rich heritage, and unforgettable adventures.",
+    "image": "india",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chandugon.github.io/our-india/",
+      "code": "https://github.com/chandugon/our-india"
+    }
+  },
+  {
+    "name": "CS Wedding Planner",
+    "desc": "Designed a static wedding planner website using HTML, CSS, JS, and Bootstrap featuring service sections, gallery, contact form, and responsive design.",
+    "image": "wedding",
+    "category": "mernstag",
+    "links": {
+      "view": "https://akashsnikam.github.io/csweddingplaner/",
+      "code": "https://github.com/akashsnikam/cs-wedding-planner-"
+    }
+  },
+  {
+    "name": "TechnoChamp",
+    "desc": "Built an educational site to promote courses and training services with HTML, CSS, JS. Included testimonials, pricing, inquiry form, and mobile layout.",
+    "image": "techno",
+    "category": "basicweb",
+    "links": {
+      "view": "https://akashsnikam.github.io/TechnoChampSolution/",
+      "code": "https://github.com/akashsnikam"
+    }
+  },
   {
     "name": "Indian Temples",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
@@ -49,29 +89,6 @@
       "view": "#",
       "code": "#"
     }
-   
-  },
-{
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-   
-  },
 
-
-  {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
   }
 ]
